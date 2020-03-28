@@ -13,4 +13,5 @@ mysql.server stop
 
 # 杀掉mysql进程
 输入：ps -ef |grep mysql
+
 输入：kill -9 (./mysqld前面第二个数字)  然后回车
